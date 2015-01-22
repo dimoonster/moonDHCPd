@@ -1,0 +1,34 @@
+.autor { font-size: 10px;margin-top: 0px;text-align: center; float:left; width:100%}
+.autor a { color: #777777; font-weight:bold; text-decoration:none; }
+.autor a:hover { text-decoration:underline; }
+hr { border:0px; height:1px; background-color:#aaaaaa;}
+a { font: bold 11px Arial, Helvetica, sans-serif;padding:0; margin:0; line-height:1.8em;color: #333333; text-decoration: none; }
+a:hover { text-decoration:underline;}
+.menu {  }
+.menu ul { text-align: left;  padding:0; margin:10px 0 0 0; list-style:none; width:100%; display:inline;}
+.menu ul li { float:left;  margin:0; border:0; margin:5px; display:inline;}
+.header { border-bottom: 1px solid #D7D7D7; }
+.clr { clear:both; padding:0; margin:0; background:none;}
+fieldset { margin-top:1em; border-radius:4px 4px 4px 4px; -moz-border-radius:4px 4px 4px 4px; -webkit-border-radius:4px 4px 4px 4px; padding:5px; border:#aaa dashed 1px; padding: 1.5em; background:#eeeeee; text-shadow:0 1px 0 #fff; -moz-box-shadow: 1px 1px 2px #fff inset; -webkit-box-shadow: 1px 1px 2px #fff inset; box-shadow: 1px 1px 2px #fff inset;}
+fieldset legend { font: bold 11px Arial; color: #444444; padding:5px 10px; border:1px solid #aaa; background-color: #fff; -moz-box-shadow:3px 3px 15px #bbb; -webkit-box-shadow:3px 3px 15px #bbb; box-shadow:3px 3px 15px #bbb;}
+.field { font: normal 11px Arial, Helvetica, sans-serif;padding:0; margin:0; line-height:1.8em;color: #333333; text-decoration: none; }
+.field input[type=text] { border-radius:2px; -moz-border-radius:2px; -webkit-border-radius:4px; box-shadow:0 1px 2px #ddd; -moz-box-shadow:0 1px 2px #ddd; -webkit-box-shadow:0 1px 2px #ddd; border:1px solid #aaa; color:#555555; padding:1px; margin:1px; }
+.field select { font: normal 11px Arial;border-radius:2px; -moz-border-radius:2px; -webkit-border-radius:4px; box-shadow:0 1px 2px #ddd; -moz-box-shadow:0 1px 2px #ddd; -webkit-box-shadow:0 1px 2px #ddd; border:1px solid #aaa; color:#555555; padding:1px; margin:1px; }
+.field input[type=submit]{ font:bold 11px Arial; margin-left:12px; border: 1px solid #aaa; padding: 3px 7px; color: #111; text-decoration: none; background: #ddd; border-radius: 12px; -webkit-border-radius: 4px; -moz-border-radius: 12px; text-shadow: 0px 1px 0px #fff; background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#cccccc)); background: -moz-linear-gradient(top,  #ffffff,  #cccccc); background: -o-linear-gradient(top,  #ffffff,  #cccccc);}
+.field input[type=submit]:hover{ position: relative; background: -webkit-gradient(linear, left top, left bottom, from(#cccccc), to(#dddddd)); background: -moz-linear-gradient(top,  #cccccc,  #dddddd); background: -o-linear-gradient(top,  #cccccc,  #dddddd); cursor:pointer; }
+.fieldctrl { text-align:center; }
+.error { float:left; margin-left: 1em; margin-top:1em; border-radius:4px 4px 4px 4px; -moz-border-radius:4px 4px 4px 4px; -webkit-border-radius:4px 4px 4px 4px; padding:5px; border:#aa0000 dashed 1px; padding: 4px; padding-left: 20px; padding-right: 20px; line-height:1.8em; background:#eeeeee; text-shadow:0 1px 0 #fff; -moz-box-shadow: 1px 1px 2px #fff inset; -webkit-box-shadow: 1px 1px 2px #fff inset; box-shadow: 1px 1px 2px #fff inset;}
+.error legend { margin-top: -15px; margin-left: -5px; font: bold 11px Arial; color: red; padding:4px 20px; border:1px solid #990000; background-color: #fff; -moz-box-shadow:3px 3px 15px #bb0000; -webkit-box-shadow:3px 3px 15px #bb0000; box-shadow:3px 3px 15px #bb0000;}
+.error p { margin-left: 30px; }
+div.data { padding: 10px; float:left;}
+div.form { padding: 10px; float:left;}
+.tabledata th { padding-left:5px;padding-right:5px;font-weight:bold;color:#000000;background:#f3f3f3;background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#cccccc));background: -moz-linear-gradient(top,  #ffffff,  #cccccc);background: -o-linear-gradient(top,  #ffffff,  #cccccc);}
+.tabledata tr { border: 1px solid #000000;}
+.tractive { border: 1px solid #000000; background:#ddd;}
+table caption, table th, table td { padding:0.3em;margin:0.1em; vertical-align:top; text-shadow:0 1px 0 #FFFFFF; font: normal 11px Arial;}
+.nowarp { white-space:nowarp; }
+.msgbox { text-align:center;float:left; margin-left: 1em; margin-top:1em; border-radius:4px 4px 4px 4px; -moz-border-radius:4px 4px 4px 4px; -webkit-border-radius:4px 4px 4px 4px; padding:5px; border:#bbb dashed 1px; padding: 4px; padding-left: 20px; padding-right: 20px; line-height:1.8em; background:#eeeeee; text-shadow:0 1px 0 #fff; -moz-box-shadow: 1px 1px 2px #fff inset; -webkit-box-shadow: 1px 1px 2px #fff inset; box-shadow: 1px 1px 2px #fff inset;}
+.msgbox legend { margin-top: -15px; margin-left: -5px; font: bold 11px Arial; color: #777; padding:4px 20px; border:1px solid #aaa; background-color: #fff; -moz-box-shadow:3px 3px 15px #bbb; -webkit-box-shadow:3px 3px 15px #bbb; box-shadow:3px 3px 15px #bbb;}
+.subdata { text-align:center;float:left; margin-left: 1em; margin-top:1em; border-radius:4px 4px 4px 4px; -moz-border-radius:4px 4px 4px 4px; -webkit-border-radius:4px 4px 4px 4px; padding:5px; border:#bbb dashed 1px; padding: 4px; padding-left: 20px; padding-right: 20px; line-height:1.8em; background:#eeeeee; text-shadow:0 1px 0 #fff; -moz-box-shadow: 1px 1px 2px #fff inset; -webkit-box-shadow: 1px 1px 2px #fff inset; box-shadow: 1px 1px 2px #fff inset;}
+.subdata legend { margin-top: -15px; margin-left: -5px; font: bold 11px Arial; color: #777; padding:4px 20px; border:1px solid #aaa; background-color: #fff; -moz-box-shadow:3px 3px 15px #bbb; -webkit-box-shadow:3px 3px 15px #bbb; box-shadow:3px 3px 15px #bbb;}
+.subdata .tabledata { padding-top: 20px;}
