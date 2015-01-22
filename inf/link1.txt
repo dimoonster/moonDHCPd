@@ -1,0 +1,7 @@
+http://www.spinics.net/lists/netdev/msg178683.html
+http://www.openswan.org/download/openswan-ocf/openswan-klipsless/openswan-klipsless/lib/libopenswan/udpfromto.c
+http://www.koders.com/c/fid0D2FD15B79EE7B99DA05193B99F2E424F1DD9DA8.aspx
+http://www.networksorcery.com/enp/protocol/dhcpv6.htm
+http://www.networksorcery.com/enp/protocol/bootp/options.htm
+
+http://www.protocols.ru/modules.php?name=News&file=article&sid=62
